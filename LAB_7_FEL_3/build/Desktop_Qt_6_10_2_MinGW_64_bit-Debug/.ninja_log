@@ -1,0 +1,9 @@
+# ninja log v6
+11	739	7956142889043431	LAB_7_FEL_3_autogen/timestamp	1c57efeb08e3c82f
+11	739	7956142889043431	LAB_7_FEL_3_autogen/mocs_compilation.cpp	1c57efeb08e3c82f
+11	739	7956142889043431	C:/Users/korob/OneDrive/Dokumentumok/LAB_7_FEL_3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB_7_FEL_3_autogen/timestamp	1c57efeb08e3c82f
+11	739	7956142889043431	C:/Users/korob/OneDrive/Dokumentumok/LAB_7_FEL_3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/LAB_7_FEL_3_autogen/mocs_compilation.cpp	1c57efeb08e3c82f
+748	2484	7956142890070465	CMakeFiles/LAB_7_FEL_3.dir/LAB_7_FEL_3_autogen/mocs_compilation.cpp.obj	c92b9aff9880e57c
+754	2547	7956142890130758	CMakeFiles/LAB_7_FEL_3.dir/main.cpp.obj	9836b3a1f2d9b25d
+759	3102	7956142890181340	CMakeFiles/LAB_7_FEL_3.dir/mainwindow.cpp.obj	b634a8dc4c08cf41
+3103	3345	7956142913614701	LAB_7_FEL_3.exe	a55cdc10f06e6287

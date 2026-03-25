@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-210b89957d614c8f8e9b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LAB_7_FEL_3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LAB_7_FEL_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LAB_7_FEL_3-Debug-cf8b45c806784b6ea6c3.json",
+					"name" : "LAB_7_FEL_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LAB_7_FEL_3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LAB_7_FEL_3_autogen-Debug-1d9afdfbd35dd8bd21a0.json",
+					"name" : "LAB_7_FEL_3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LAB_7_FEL_3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LAB_7_FEL_3_autogen_timestamp_deps-Debug-b73ba7a7f483f3851543.json",
+					"name" : "LAB_7_FEL_3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/korob/OneDrive/Dokumentumok/LAB_7_FEL_3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/korob/OneDrive/Dokumentumok/LAB_7_FEL_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
